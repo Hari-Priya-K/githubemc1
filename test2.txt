@@ -1,2 +1,2 @@
-Created second test file in VS code
-Now we need to move this file in GitHub Repository
+Created second test file in VS code (This is Local)
+Now we need to move this file in GitHub Repository (This is Git Repo)
