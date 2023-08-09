@@ -1,0 +1,2 @@
+Created second test file in VS code
+Now we need to move this file in GitHub Repository
